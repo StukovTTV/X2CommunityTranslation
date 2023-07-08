@@ -1,0 +1,6 @@
+[AbilityDarkEvents.Advanced_Medics]
+DisplayName="Projekt: Schwarze Dryade I"
+SummaryText="ADVENT rüstet seine Einheiten mit regenerativen Medikationen aus"
+QuoteText="\"Verdammt, wie oft stehen diese Typen noch auf!\""
+QuoteTextAuthor="- unbekannter XCOM Soldat - verstorben"
+PreMissionText="ADVENT Einheiten haben Regeneration"
